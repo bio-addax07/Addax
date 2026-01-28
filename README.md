@@ -1,7 +1,7 @@
 # 🐾 SANS Collar - Smart Ocular Health Monitoring for Pets 👁️
 
-![SANS Collar Logo](img-vio/logo.jpeg)
-
+<a> <img> src="img-vio/logo.jpeg" height="80" width="60"
+</img> </a>
 **Protecting Your Pet's Vision, One Scan at a Time.**
 
 The **SANS Collar** is a revolutionary, non-invasive smart device designed for continuous ocular health monitoring in pets. It shifts the paradigm from reactive treatment to proactive, preventative eye care. 🚀
