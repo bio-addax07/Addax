@@ -1,5 +1,6 @@
 # 🐾 SANS Collar - Smart Ocular Health Monitoring for Pets 👁️
 
+<div align="center">
 <img src= img-vio/logo.jpeg alt="Logo" width="80" height="80">
 **Protecting Your Pet's Vision, One Scan at a Time.**
 
